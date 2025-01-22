@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{246BCBBA-244D-474F-97E4-BB59701B82EE}</ProjectGuid>
+    <ProjectGuid>{AE46111D-F0CA-450A-8860-ABF4B69C2912}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>logica04</RootNamespace>
     <AssemblyName>logica04</AssemblyName>
@@ -43,9 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\Documents\Visual Studio 2022\logicadeprogramacao\Program.cs">
-      <Link>Program.cs</Link>
-    </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

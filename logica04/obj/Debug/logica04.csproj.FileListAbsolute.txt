@@ -1,7 +1,7 @@
-C:\Users\ana.bgsantos10\source\repos\logica04\bin\Debug\logica04.exe.config
-C:\Users\ana.bgsantos10\source\repos\logica04\bin\Debug\logica04.exe
-C:\Users\ana.bgsantos10\source\repos\logica04\bin\Debug\logica04.pdb
-C:\Users\ana.bgsantos10\source\repos\logica04\obj\Debug\logica04.csproj.AssemblyReference.cache
-C:\Users\ana.bgsantos10\source\repos\logica04\obj\Debug\logica04.csproj.CoreCompileInputs.cache
-C:\Users\ana.bgsantos10\source\repos\logica04\obj\Debug\logica04.exe
-C:\Users\ana.bgsantos10\source\repos\logica04\obj\Debug\logica04.pdb
+C:\Users\ana.bgsantos10\Documents\Visual Studio 2022\logicadeprogramacao\logica04\bin\Debug\logica04.exe.config
+C:\Users\ana.bgsantos10\Documents\Visual Studio 2022\logicadeprogramacao\logica04\bin\Debug\logica04.exe
+C:\Users\ana.bgsantos10\Documents\Visual Studio 2022\logicadeprogramacao\logica04\bin\Debug\logica04.pdb
+C:\Users\ana.bgsantos10\Documents\Visual Studio 2022\logicadeprogramacao\logica04\obj\Debug\logica04.csproj.AssemblyReference.cache
+C:\Users\ana.bgsantos10\Documents\Visual Studio 2022\logicadeprogramacao\logica04\obj\Debug\logica04.csproj.CoreCompileInputs.cache
+C:\Users\ana.bgsantos10\Documents\Visual Studio 2022\logicadeprogramacao\logica04\obj\Debug\logica04.exe
+C:\Users\ana.bgsantos10\Documents\Visual Studio 2022\logicadeprogramacao\logica04\obj\Debug\logica04.pdb

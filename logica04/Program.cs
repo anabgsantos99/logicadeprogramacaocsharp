@@ -1,7 +1,4 @@
-﻿
-
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -33,6 +30,7 @@ namespace logica04
             {
                 Console.WriteLine("Você é maior de idade.");
             }
+
             else
             {
                 Console.WriteLine("Você é menor de idade.");
@@ -55,13 +53,12 @@ namespace logica04
             }
             else if (nota >= 3.0)
             {
-                Console.WriteLine("Você está em risco de reprovação.");
+                Console.WriteLine("Você está com risco de reprovação.");
             }
-            else 
+            else
             {
                 Console.WriteLine("Você foi reprovado.");
             }
-
         }
     }
 }

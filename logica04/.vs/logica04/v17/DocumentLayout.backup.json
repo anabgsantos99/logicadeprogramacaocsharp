@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica04\\",
+  "WorkspaceRootPath": "C:\\Users\\ana.bgsantos10\\Documents\\Visual Studio 2022\\logicadeprogramacao\\logica04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{246BCBBA-244D-474F-97E4-BB59701B82EE}|logica04.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{246BCBBA-244D-474F-97E4-BB59701B82EE}|logica04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE46111D-F0CA-450A-8860-ABF4B69C2912}|logica04.csproj|c:\\users\\ana.bgsantos10\\documents\\visual studio 2022\\logicadeprogramacao\\logica04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE46111D-F0CA-450A-8860-ABF4B69C2912}|logica04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica04\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\Documents\\Visual Studio 2022\\logicadeprogramacao\\logica04\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica04\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ana.bgsantos10\\Documents\\Visual Studio 2022\\logicadeprogramacao\\logica04\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T20:12:04.2Z",
+              "WhenOpened": "2025-01-22T20:35:05.612Z",
               "EditorCaption": ""
             }
           ]
