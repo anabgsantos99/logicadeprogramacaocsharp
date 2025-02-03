@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ana.bgsantos10\\Documents\\Visual Studio 2022\\logicadeprogramacao\\logica09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD4C65C-C85D-4500-BACD-AD389F4AB8A2}|logica09.csproj|c:\\users\\ana.bgsantos10\\documents\\visual studio 2022\\logicadeprogramacao\\logica09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD4C65C-C85D-4500-BACD-AD389F4AB8A2}|logica09.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\Documents\\Visual Studio 2022\\logicadeprogramacao\\logica09\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ana.bgsantos10\\Documents\\Visual Studio 2022\\logicadeprogramacao\\logica09\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:58:45.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
